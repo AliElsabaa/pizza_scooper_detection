@@ -1,0 +1,13 @@
+{
+  "video_name": "Sah w b3dha ghalt (2)",
+  "created_at": "2025-01-20T12:00:00",
+  "description": "ROIs for Sah w b3dha ghalt (2) - Define protein container areas where scooper is required",
+  "rois": [
+    {
+      "x1": 458,
+      "y1": 346,
+      "x2": 514,
+      "y2": 386
+    }
+  ]
+}

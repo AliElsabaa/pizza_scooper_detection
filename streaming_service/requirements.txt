@@ -1,0 +1,5 @@
+fastapi
+kafka-python
+opencv-python
+numpy
+uvicorn

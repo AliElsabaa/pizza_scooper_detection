@@ -1,0 +1,15 @@
+PIZZA SCOOPER VIOLATION DETECTION - TEST REPORT
+==================================================
+Date: 2025-07-20 03:03:22
+Total time: 25.77 seconds
+Overall results: 7/7 tests passed
+Requirements met: 8/8
+
+DETAILED RESULTS:
+  Requirements Check: PASS
+  YOLO Model Test: PASS
+  ROI Configuration Test: PASS
+  Frame Reader Test: PASS
+  Streaming Service Test: PASS
+  Frontend Test: PASS
+  End-to-End Pipeline Test: PASS

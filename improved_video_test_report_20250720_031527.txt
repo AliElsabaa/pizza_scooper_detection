@@ -1,0 +1,10 @@
+IMPROVED VIDEO TESTING REPORT
+==================================================
+Date: 2025-07-20 03:15:27
+Videos tested: 2
+Correct predictions: 1/2
+Overall accuracy: 50.0%
+
+DETAILED RESULTS:
+  Sah w b3dha ghalt (2).mp4: 2/2 violations - PASS
+  Sah w b3dha ghalt (3).mp4: 5/1 violations - FAIL
