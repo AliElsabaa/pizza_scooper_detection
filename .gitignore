@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+scooperenv/
+
+# Ignore compiled and cache files
+__pycache__/
+*.pyc
+
+# Ignore heavy library binaries (these can be reinstalled from requirements.txt)
+*.pyd
+*.dll
+*.lib
+
+# Ignore build and temp directories
+build/
+dist/
+*.egg-info/
